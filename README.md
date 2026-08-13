@@ -1,8 +1,6 @@
 ## 𐙚👩🏻‍💻 Olá, me chamo Libni Varela 
 ✧･ﾟ: ♡ ✧ ━━━⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ━━ ✧ ♡ :･ﾟ✧
 
-Software Engineering Student
-
 
 
 
