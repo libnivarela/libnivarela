@@ -11,7 +11,6 @@
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/ecbdcda9-0f86-47dc-a799-53f42b04ffd1" align="right"/>
 
 ![](https://github-readme-stats.shion.dev/api?username=libnivarela&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=libnivarela&theme=jolly&hide_border=true)<br/> 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=libnivarela&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
