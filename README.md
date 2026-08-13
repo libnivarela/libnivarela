@@ -1,4 +1,4 @@
-## 𐙚👩🏻‍💻 Libni Varela 
+## 𐙚👩🏻‍💻 Olá, me chamo Libni Varela 
 ✧･ﾟ: ♡ ✧ ━━━⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ━━ ✧ ♡ :･ﾟ✧
 
 
