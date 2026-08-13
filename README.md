@@ -8,7 +8,7 @@
 
 
 #  ˖ ࣪⊹GitHub Status: 
-<img align="right" src="./.github/workflows/gif.gif" width="400">
+<img align="right" src="./.github/workflows/gif.gif" width="350">
 
 ![](https://github-readme-stats.shion.dev/api?username=libnivarela&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=libnivarela&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
