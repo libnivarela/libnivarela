@@ -2,6 +2,8 @@
 
 
 
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e20dbbd9-3726-4155-ad4e-f57898b48ee9" />
+
 
 
 #  Tecnologias: ദ്ദി◝ ⩊ ◜.ᐟ
