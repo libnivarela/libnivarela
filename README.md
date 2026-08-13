@@ -1,12 +1,12 @@
-## 𐙚👩🏻‍💻 Oii, me chamo Libni Varela 
 
 
 
+  <h1 align="center">ִִ ࣪ ˖ ࣪𐙚 ᨰꫀᥣᥴ᥆ꩇꫀ ! ᰔ ִ ׄ</h1>
 
   <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/917f4323-d5bf-426e-8c09-25d3f1afa70b" />
 
 
- 
+  
  
 
 
@@ -26,4 +26,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/libnivarela/libnivarela/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/libnivarela/libnivarela/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+
